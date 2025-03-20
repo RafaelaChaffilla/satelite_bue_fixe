@@ -1,1 +1,1 @@
-print("comms")
+print("comms de telecomunicaçoes")
